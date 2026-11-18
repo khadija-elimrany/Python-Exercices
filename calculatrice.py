@@ -15,5 +15,5 @@ elif op == "/":
         print("Réponse:", n1 / n2)
     else:
         print("Division par zéro impossible.")
-else :
+else:
     print("opération inconnue")
